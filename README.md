@@ -18,4 +18,4 @@ or implement it youself.
 <!--{ Links }------------------------------------------------------------------>
 
 [stb]: https://github.com/nothings/stb
-[tini.h]: https://github.com/DominikMarcinowski/blob/main/tini.h
+[tini.h]: https://github.com/DominikMarcinowski/tini/blob/main/tini.h
